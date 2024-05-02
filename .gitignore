@@ -364,3 +364,5 @@ FodyWeavers.xsd
 
 # Custom
 /build-push.ps1
+/data/*
+!/data/.keep
